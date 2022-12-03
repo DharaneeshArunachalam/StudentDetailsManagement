@@ -1,0 +1,24 @@
+.studentmanagesearch{
+    background-color: rgb(236, 232, 232);
+    width: 100%;
+    display: flex;
+    padding: 0px 20px;
+    border-radius: 10px;
+}
+.studentsearchinput{
+    border: none;
+    outline: none;
+    background-color: rgb(236, 232, 232);
+    width: 100%;
+
+}
+.studentsearchicon{
+    background-color: rgb(236, 232, 232);
+    font-size:20px;
+    padding: 10px;
+    border: none;
+    outline: none;
+}
+.studentmanagetable{
+    width: 100%;
+}

@@ -1,0 +1,22 @@
+.backarrow{
+    font-size: 30px;
+    color: black;
+}
+.curdtextarea{
+    width: 96%;
+    height: 200px;
+}
+.curdinputarea{
+    width: 90%;
+}
+
+.curdsubmitbutton{
+    background-color: black;
+    border-radius: 20px;
+    color: aliceblue;
+    padding: 5px 25px;
+}   
+.curdlabelname{
+    font-weight: 600;
+    width: 100%;
+}
